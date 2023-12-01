@@ -1,3 +1,5 @@
+Note: Competitive bot code is present in competitive_engine/engine.cpp
+
 # Starter Code Overview
 
 Rollerball's GUI is implemented in JavaScript, and the core engine is written in C++. A similar interface is used as Assignment2. Note that *for this assignment, we are only accepting solutions in C++*.
